@@ -29,3 +29,15 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+/.firebase
+package-lock.json
+.browserslistrc
+.eslintrc.js
+babel.config.js
+capacitor.config.json
+cypress.json
+firebase.json
+ionic.config.json
+jest.config.js
+tsconfig.json
+
